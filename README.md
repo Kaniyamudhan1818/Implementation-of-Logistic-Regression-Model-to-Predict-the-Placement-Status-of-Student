@@ -75,5 +75,4 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
-## Result:
-Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
+
